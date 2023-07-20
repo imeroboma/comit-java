@@ -37,7 +37,8 @@
        <id>nexus</id>
       <name>comit-java</name>
       <url>http://3.15.45.160:8081/repository/rbc_snapshot/</url>
-    </repository
+    </snapshotRepository>
+  </distributionManagement>
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
